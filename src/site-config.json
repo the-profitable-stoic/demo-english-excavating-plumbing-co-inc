@@ -1,0 +1,554 @@
+{
+  "business": {
+    "name": "English Excavating & Plumbing Co. Inc",
+    "phone": "+13178882282",
+    "category": "excavation contractor",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis Excavation Experts",
+      "heroSubline": "Precision excavation and plumbing solutions for Indianapolis homes and businesses. We get the job done right, on time, and within budget.",
+      "aboutTitle": "Decades of Indianapolis Excavation Expertise",
+      "aboutText": [
+        "English Excavating & Plumbing Co. Inc has been serving the Indianapolis area for over a decade. Founded by lifelong Indiana residents, we understand the unique challenges our local climate and soil conditions present.",
+        "We approach every project with meticulous planning and execution. Our commitment to quality workmanship and customer satisfaction is unwavering. We prioritize clear communication, transparency, and delivering results that exceed expectations.",
+        "We're proud to be a part of the Indianapolis community. We actively support local initiatives and strive to contribute to the growth and prosperity of our neighborhoods. We're not just contractors; we're your neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Indianapolis soil, climate, and building codes."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time, prepared, and ready to get the job done right."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, upfront estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Safety Focused",
+          "description": "Prioritizing safety for our team, our clients, and the environment on every project."
+        }
+      ],
+      "ctaHeadline": "Ready to Start Your Project?",
+      "ctaSubline": "Contact us today for a free consultation and estimate. Let's discuss your excavation and plumbing needs."
+    },
+    "services": [
+      {
+        "slug": "site-preparation",
+        "name": "Site Preparation",
+        "shortDescription": "Comprehensive site preparation for residential and commercial construction projects.",
+        "description": "From initial clearing and grading to soil stabilization and erosion control, English Excavating & Plumbing Co. Inc offers complete site preparation services. We understand the importance of a solid foundation for any construction project, especially in Indianapolis with its challenging clay soil and freeze-thaw cycles. Our experienced team utilizes advanced equipment and techniques to ensure your site is properly prepared for building. We handle everything from tree removal and demolition to excavation and backfilling, ensuring your project starts on the right foot. We address drainage issues proactively, preventing future problems with water damage. Our services include soil testing, compaction, and stabilization to create a stable and level building platform. We work closely with builders, developers, and homeowners to tailor our services to specific project requirements. We also handle all necessary permits and inspections, ensuring compliance with local regulations. We understand the importance of minimizing environmental impact, and we employ sustainable practices whenever possible.",
+        "process": [
+          "Initial site assessment and planning",
+          "Clearing and demolition (if needed)",
+          "Excavation and grading",
+          "Soil stabilization and compaction",
+          "Erosion control measures"
+        ],
+        "benefits": [
+          "Stable foundation for construction",
+          "Proper drainage to prevent water damage",
+          "Compliance with local regulations",
+          "Minimized environmental impact"
+        ],
+        "faq": [
+          {
+            "question": "What is involved in site preparation?",
+            "answer": "Site preparation includes clearing the land, removing vegetation, grading the soil, ensuring proper drainage, and compacting the soil to provide a stable base for construction."
+          },
+          {
+            "question": "Why is proper site preparation important?",
+            "answer": "Proper site preparation is crucial for the structural integrity of any building. It prevents settling, water damage, and other issues that can arise from an unstable foundation."
+          },
+          {
+            "question": "Do you handle permits for site preparation?",
+            "answer": "Yes, we handle all necessary permits and inspections to ensure compliance with local regulations in Indianapolis and surrounding areas."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-excavation",
+        "name": "Foundation Excavation",
+        "shortDescription": "Precise excavation for new foundations, additions, and repairs.",
+        "description": "English Excavating & Plumbing Co. Inc specializes in foundation excavation for residential and commercial buildings throughout Indianapolis. We understand the critical role a properly excavated foundation plays in the overall stability and longevity of a structure, especially considering the region's frequent freeze-thaw cycles that can compromise foundations. Our team utilizes advanced equipment and techniques to ensure precise excavation depths, proper slope angles, and adequate drainage. We take into account soil conditions, water table levels, and building codes to create a solid foundation for your project. We excavate for new construction, additions, and foundation repairs. We handle everything from small residential projects to large-scale commercial developments. We also provide backfilling and compaction services to ensure the foundation is properly supported. We pay close attention to detail and adhere to strict safety protocols to protect your property and our workers. We work closely with engineers and builders to ensure the excavation meets all specifications.",
+        "process": [
+          "Site survey and layout",
+          "Excavation to specified depth and dimensions",
+          "Soil testing and analysis",
+          "Backfilling and compaction",
+          "Erosion control measures"
+        ],
+        "benefits": [
+          "Stable and durable foundation",
+          "Prevention of water damage and settling",
+          "Compliance with building codes",
+          "Protection of property and surrounding areas"
+        ],
+        "faq": [
+          {
+            "question": "How deep do you excavate for a foundation?",
+            "answer": "The depth of excavation depends on the building design, soil conditions, and local building codes. We work closely with engineers to determine the appropriate depth for each project."
+          },
+          {
+            "question": "What type of equipment do you use for foundation excavation?",
+            "answer": "We use a variety of equipment, including excavators, bulldozers, and skid steers, to ensure efficient and precise excavation."
+          },
+          {
+            "question": "Do you provide backfilling services?",
+            "answer": "Yes, we provide backfilling and compaction services to ensure the foundation is properly supported and protected."
+          }
+        ]
+      },
+      {
+        "slug": "trenching-and-utility-installation",
+        "name": "Trenching and Utility Installation",
+        "shortDescription": "Expert trenching services for installing water, sewer, and gas lines.",
+        "description": "English Excavating & Plumbing Co. Inc provides professional trenching and utility installation services throughout the Indianapolis metro area. We have the experience and equipment to safely and efficiently install water, sewer, and gas lines for residential, commercial, and industrial properties. We understand the importance of proper trenching techniques to prevent damage to underground utilities and ensure the long-term reliability of your infrastructure. Our team is trained in safe excavation practices and adheres to all local regulations. We utilize trench boxes and shoring systems to protect workers and prevent cave-ins. We also provide backfilling and compaction services to ensure the trenches are properly closed and the surrounding area is restored. We work closely with utility companies to coordinate installations and ensure compliance with their standards. We handle everything from small residential repairs to large-scale commercial installations. We use laser levels and GPS technology to ensure accurate trench depths and slopes.",
+        "process": [
+          "Utility location and marking",
+          "Trench excavation to specified depth and width",
+          "Pipe installation and connection",
+          "Backfilling and compaction",
+          "Site restoration"
+        ],
+        "benefits": [
+          "Safe and efficient utility installation",
+          "Prevention of damage to underground utilities",
+          "Compliance with local regulations",
+          "Long-term reliability of infrastructure"
+        ],
+        "faq": [
+          {
+            "question": "How do you locate underground utilities?",
+            "answer": "We use a combination of utility maps, ground-penetrating radar, and potholing techniques to locate underground utilities before excavation."
+          },
+          {
+            "question": "What safety precautions do you take during trenching?",
+            "answer": "We use trench boxes and shoring systems to prevent cave-ins and protect workers. We also adhere to strict safety protocols and regulations."
+          },
+          {
+            "question": "Do you handle permits for utility installation?",
+            "answer": "Yes, we handle all necessary permits and inspections to ensure compliance with local regulations in Indianapolis and surrounding areas."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Effective drainage solutions to prevent water damage and erosion.",
+        "description": "English Excavating & Plumbing Co. Inc specializes in designing and installing effective drainage solutions for residential and commercial properties in Indianapolis. We understand the importance of proper drainage to prevent water damage, erosion, and foundation problems, especially given Indiana's humid summers and potential for severe thunderstorms. Our team assesses your property's specific drainage needs and recommends customized solutions to address your concerns. We offer a variety of drainage options, including French drains, surface drains, downspout extensions, and catch basins. We utilize high-quality materials and proven techniques to ensure long-lasting performance. We also provide grading and landscaping services to improve drainage and enhance the aesthetics of your property. We handle everything from small residential projects to large-scale commercial developments. We pay close attention to detail and ensure the drainage system is properly installed and functioning effectively. We work closely with homeowners and property managers to ensure their satisfaction.",
+        "process": [
+          "Site assessment and problem identification",
+          "Drainage system design and planning",
+          "Excavation and installation",
+          "Backfilling and grading",
+          "Testing and verification"
+        ],
+        "benefits": [
+          "Prevention of water damage and erosion",
+          "Protection of foundation and landscaping",
+          "Improved property value",
+          "Reduced risk of flooding"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of poor drainage?",
+            "answer": "Signs of poor drainage include standing water, soggy soil, erosion, foundation cracks, and water damage inside the building."
+          },
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe to redirect surface and groundwater away from a building or area."
+          },
+          {
+            "question": "How do you determine the best drainage solution for my property?",
+            "answer": "We conduct a thorough site assessment to identify the specific drainage problems and recommend customized solutions based on your property's needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-line-repair-and-replacement",
+        "name": "Sewer Line Repair and Replacement",
+        "shortDescription": "Reliable sewer line repair and replacement services.",
+        "description": "English Excavating & Plumbing Co. Inc provides dependable sewer line repair and replacement services for homeowners and businesses in Indianapolis. We understand the inconvenience and potential health hazards associated with sewer line problems. Our experienced team utilizes advanced equipment and techniques to diagnose and repair or replace damaged sewer lines quickly and efficiently. We offer trenchless repair options to minimize disruption to your property and landscaping. We also provide traditional excavation methods for more extensive repairs or replacements. We handle everything from minor leaks to complete sewer line failures. We use high-quality materials and adhere to strict industry standards to ensure long-lasting performance. We also provide sewer line inspections and preventative maintenance services to help you avoid costly repairs in the future. We understand the importance of prompt and reliable service, and we strive to resolve your sewer line problems as quickly as possible.",
+        "process": [
+          "Sewer line inspection and diagnosis",
+          "Repair or replacement of damaged sections",
+          "Trenchless or traditional excavation methods",
+          "Backfilling and compaction",
+          "Testing and verification"
+        ],
+        "benefits": [
+          "Reliable and efficient sewer line repair",
+          "Prevention of health hazards and property damage",
+          "Minimized disruption to property and landscaping",
+          "Long-lasting performance"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a sewer line problem?",
+            "answer": "Signs of a sewer line problem include slow drains, sewage backups, foul odors, and gurgling sounds in the plumbing system."
+          },
+          {
+            "question": "What is trenchless sewer repair?",
+            "answer": "Trenchless sewer repair is a method of repairing or replacing damaged sewer lines without digging a trench, minimizing disruption to your property."
+          },
+          {
+            "question": "How long does it take to repair or replace a sewer line?",
+            "answer": "The time required to repair or replace a sewer line depends on the extent of the damage and the method used. We strive to complete repairs as quickly as possible while ensuring quality workmanship."
+          }
+        ]
+      },
+      {
+        "slug": "water-line-services",
+        "name": "Water Line Services",
+        "shortDescription": "Comprehensive water line repair, replacement, and installation.",
+        "description": "English Excavating & Plumbing Co. Inc offers complete water line services to Indianapolis residents and businesses. From leaks to replacements, we've got you covered. Indianapolis' freeze-thaw cycles can wreak havoc on water lines, leading to cracks and bursts. Our team has the expertise to quickly diagnose problems and implement effective solutions. We use durable materials to ensure longevity. We minimize disruption by using directional boring for water line replacement, ensuring minimal damage to your landscaping and property. Our services include leak detection, repair, full line replacement, and new installations. We work on all types of water lines, from residential to commercial. We handle all permitting and inspections required by local authorities. We strive to provide prompt, reliable service to restore water service as quickly as possible.",
+        "process": [
+          "Leak detection and diagnosis",
+          "Repair or replacement of damaged sections",
+          "Trenchless or traditional excavation methods",
+          "Backfilling and compaction",
+          "Testing and verification"
+        ],
+        "benefits": [
+          "Reliable and efficient water line repair",
+          "Prevention of water damage and property damage",
+          "Minimized disruption to property and landscaping",
+          "Long-lasting performance"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a water line leak?",
+            "answer": "Signs of a water line leak include a drop in water pressure, unexplained wet spots in your yard, and an unusually high water bill."
+          },
+          {
+            "question": "Can you repair water lines without digging up my yard?",
+            "answer": "Yes, we offer trenchless water line repair and replacement options that minimize disruption to your property."
+          },
+          {
+            "question": "How long does it take to repair or replace a water line?",
+            "answer": "The time required to repair or replace a water line depends on the extent of the damage and the method used. We strive to complete repairs as quickly as possible while ensuring quality workmanship."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "English Excavating & Plumbing Co. Inc is proud to offer comprehensive excavation and plumbing services to the residents and businesses of Carmel, Indiana. Known for its upscale residential developments built primarily between the 1980s and 2000s, Carmel presents unique challenges and opportunities for excavation and plumbing projects. We understand the specific needs of homeowners in these established neighborhoods, from foundation repairs to sewer line replacements, and are equipped to handle projects of any scale with precision and care.\n\nOur team is experienced in navigating the specific permitting processes and regulations within Carmel, ensuring that all projects are completed safely, efficiently, and in compliance with local codes. We are committed to providing exceptional service and lasting solutions to the Carmel community, helping to maintain the beauty and integrity of this thriving city. Given the cold winter climate, we are also adept at addressing issues related to frozen pipes and potential water line damage.",
+        "localContext": "Carmel is characterized by its upscale, planned communities developed primarily from the 1980s through the 2000s, requiring specialized knowledge of the infrastructure common in those eras.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Zionsville",
+          "Westfield"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "English Excavating & Plumbing Co. Inc proudly serves the rapidly growing community of Fishers, Indiana. With its abundance of newer, family-friendly planned communities developed between the 1990s and 2020s, Fishers presents a diverse range of excavation and plumbing needs. We are well-versed in the infrastructure of these modern neighborhoods and are equipped to handle everything from new construction plumbing installations to drainage solutions and utility line services.\n\nWe understand the importance of providing reliable and efficient services to the residents of Fishers. Our team is committed to delivering exceptional workmanship and customer satisfaction on every project, big or small. We also understand that Fishers experiences cold winters, and can help with issues like frozen pipes.",
+        "localContext": "Fishers is known for its many planned communities built from the 1990s onward, requiring familiarity with modern plumbing and drainage systems.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Noblesville",
+          "McCordsville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "English Excavating & Plumbing Co. Inc is dedicated to providing top-quality excavation and plumbing services to the residents and businesses of Noblesville, Indiana. From the historic Courthouse Square area to the newer residential developments, Noblesville offers a diverse range of properties with unique infrastructure needs. We have extensive experience working in this area and are familiar with the challenges and opportunities that come with maintaining and improving the plumbing and excavation systems of both historic and modern homes.\n\nOur team is committed to preserving the character of Noblesville while providing modern solutions to meet the evolving needs of the community. Whether it's repairing a leaky pipe in a historic home or installing a new septic system in a rural area, we are equipped to handle any project with expertise and care. The cold winters also create unique excavation and plumbing challenges that we are skilled at handling.",
+        "localContext": "Noblesville features a mix of historic homes around Courthouse Square and newer developments, requiring expertise in both old and new plumbing techniques.",
+        "nearbyAreas": [
+          "Fishers",
+          "Cicero",
+          "Atlanta"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "English Excavating & Plumbing Co. Inc is proud to serve the diverse needs of Indianapolis, Indiana, offering a full spectrum of excavation and plumbing services to residential, commercial, and industrial clients. As the largest city in Indiana, Indianapolis presents a wide range of infrastructure challenges and opportunities. From the historic neighborhoods downtown to the sprawling suburbs, we have the expertise and resources to handle any project, big or small.\n\nWe understand the importance of providing reliable and efficient services to the residents and businesses of Indianapolis. Our team is committed to delivering exceptional workmanship and customer satisfaction on every project, and with Indianapolis' cold winters, we are prepared to handle any winter-related plumbing emergencies.",
+        "localContext": "Indianapolis contains a wide variety of housing and building structures and types, requiring expertise with a broad range of plumbing systems.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "English Excavating & Plumbing Co. Inc offers expert excavation and plumbing services to the residents and businesses of Zionsville, Indiana. Known for its charming village atmosphere and beautiful homes, Zionsville requires a delicate touch when it comes to excavation and plumbing projects. We understand the importance of preserving the town's character while providing modern solutions to meet the needs of its residents.\n\nOur team is experienced in navigating the specific permitting processes and regulations within Zionsville, ensuring that all projects are completed safely, efficiently, and in compliance with local codes. We are committed to providing exceptional service and lasting solutions to the Zionsville community. We also have experience with winterizing homes in Zionsville due to the cold winters.",
+        "localContext": "Zionsville's charming village atmosphere and unique architectural styles require careful consideration during excavation and plumbing projects.",
+        "nearbyAreas": [
+          "Carmel",
+          "Whitestown",
+          "Lebanon"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "English Excavating & Plumbing Co. Inc is pleased to provide comprehensive excavation and plumbing services to the growing community of Westfield, Indiana. With its rapid development and family-friendly atmosphere, Westfield presents a dynamic environment for both residential and commercial projects. We are equipped to handle all types of excavation and plumbing needs, from new construction installations to repairs and maintenance.\n\nOur team is committed to providing reliable and efficient services to the residents and businesses of Westfield. We understand the importance of timely project completion and clear communication. We also understand the winter climate and its effects on local plumbing.",
+        "localContext": "Westfield's rapid growth and family-oriented environment create a demand for efficient and reliable excavation and plumbing services.",
+        "nearbyAreas": [
+          "Carmel",
+          "Sheridan",
+          "Cicero"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "English Excavating & Plumbing Co. Inc proudly serves the residents and businesses of Greenwood, Indiana, offering a wide range of excavation and plumbing services tailored to the community's needs. As a thriving suburb of Indianapolis, Greenwood presents a diverse mix of residential and commercial properties, each with unique infrastructure requirements. We are equipped to handle everything from simple repairs to complex installations, ensuring that every project is completed to the highest standards.\n\nOur team is committed to providing exceptional customer service and lasting solutions to the Greenwood community. We understand the importance of clear communication, timely project completion, and transparent pricing. We are also prepared for winter-related plumbing issues, as Greenwood experiences cold winters.",
+        "localContext": "Greenwood's mix of residential and commercial properties requires a versatile approach to excavation and plumbing services.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Beech Grove",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Beech Grove",
+        "slug": "beech-grove-in",
+        "state": "IN",
+        "content": "English Excavating & Plumbing Co. Inc is dedicated to providing quality excavation and plumbing services to the residents and businesses of Beech Grove, Indiana. With its close-knit community and diverse housing stock, Beech Grove presents a unique set of challenges and opportunities for excavation and plumbing projects. We have experience working in this area and are familiar with local codes and regulations.\n\nOur team is committed to providing reliable and efficient services to the residents of Beech Grove. We understand the importance of clear communication and timely project completion. We also understand Beech Grove's climate, and it's effect on local plumbing, specifically in the winter.",
+        "localContext": "Beech Grove's close-knit community and diverse housing stock require a personalized approach to excavation and plumbing services.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Greenwood",
+          "Lawrence"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Foundation Excavation",
+        "text": "English Excavating did an amazing job with our foundation excavation in Broad Ripple. They were on time, professional, and very careful not to damage our existing landscaping. Highly recommend!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Sewer Line Repair",
+        "text": "We had a backed-up sewer line, and English Excavating came out quickly and fixed the problem. They explained everything clearly and gave us a fair price. Appreciated their prompt service.",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "Our backyard was a swamp every time it rained. English Excavating installed a French drain system, and now the water drains perfectly. They did a great job and cleaned up everything afterwards.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Site Preparation",
+        "text": "English Excavating prepped our site for a new garage. They handled the demolition of the old structure and the excavation for the new foundation. Very professional and efficient.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Amy S.",
+        "rating": 4,
+        "service": "Water Line Replacement",
+        "text": "English Excavating replaced our old, leaky water line. They were able to do it with minimal disruption to our yard. The crew was friendly and knowledgeable. Good experience overall.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Trenching and Utility Installation",
+        "text": "We used English Excavating for trenching and installing new gas lines for our outdoor kitchen. They were very careful to avoid damaging our existing underground utilities. The job was completed on time and within budget.",
+        "date": "2025-01-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Indianapolis Excavation Contractor | English Excavating",
+        "description": "Excavation and plumbing experts in Indianapolis, IN. Site prep, foundations, utilities, drainage, and more. Call +13178882282 for a free quote!"
+      },
+      "about": {
+        "title": "About English Excavating | Indianapolis Excavation Experts",
+        "description": "Learn about English Excavating & Plumbing Co. Inc, your trusted excavation contractor in Indianapolis. Decades of experience, local expertise."
+      },
+      "services": {
+        "title": "Excavation Services | English Excavating Indianapolis",
+        "description": "Full-service excavation contractor in Indianapolis: site preparation, foundations, utilities, drainage, sewer lines, water lines. Call for a quote!"
+      },
+      "contact": {
+        "title": "Contact English Excavating | Indianapolis IN",
+        "description": "Contact English Excavating & Plumbing Co. Inc for excavation and plumbing services in Indianapolis. Call +13178882282 or fill out our form."
+      },
+      "reviews": {
+        "title": "English Excavating Reviews | Indianapolis Excavation",
+        "description": "Read reviews for English Excavating & Plumbing Co. Inc. Trusted excavation contractor in Indianapolis, IN. See what our customers say!"
+      },
+      "service-areas": {
+        "title": "Service Areas | English Excavating Indianapolis",
+        "description": "English Excavating provides excavation services in Indianapolis, Carmel, Fishers, Noblesville, and surrounding areas. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "site-preparation": "/images/service-site-preparation.webp",
+      "foundation-excavation": "/images/service-foundation-excavation.webp",
+      "trenching-and-utility-installation": "/images/service-trenching-and-utility-installation.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp",
+      "sewer-line-repair-and-replacement": "/images/service-sewer-line-repair-and-replacement.webp",
+      "water-line-services": "/images/service-water-line-services.webp"
+    },
+    "servicesResponsive": {
+      "site-preparation": {
+        "src": "/images/service-site-preparation.webp",
+        "srcset": "/images/service-site-preparation-400w.webp 400w, /images/service-site-preparation-800w.webp 800w, /images/service-site-preparation-1200w.webp 1200w, /images/service-site-preparation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-excavation": {
+        "src": "/images/service-foundation-excavation.webp",
+        "srcset": "/images/service-foundation-excavation-400w.webp 400w, /images/service-foundation-excavation-800w.webp 800w, /images/service-foundation-excavation-1200w.webp 1200w, /images/service-foundation-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trenching-and-utility-installation": {
+        "src": "/images/service-trenching-and-utility-installation.webp",
+        "srcset": "/images/service-trenching-and-utility-installation-400w.webp 400w, /images/service-trenching-and-utility-installation-800w.webp 800w, /images/service-trenching-and-utility-installation-1200w.webp 1200w, /images/service-trenching-and-utility-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-line-repair-and-replacement": {
+        "src": "/images/service-sewer-line-repair-and-replacement.webp",
+        "srcset": "/images/service-sewer-line-repair-and-replacement-400w.webp 400w, /images/service-sewer-line-repair-and-replacement-800w.webp 800w, /images/service-sewer-line-repair-and-replacement-1200w.webp 1200w, /images/service-sewer-line-repair-and-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-line-services": {
+        "src": "/images/service-water-line-services.webp",
+        "srcset": "/images/service-water-line-services-400w.webp 400w, /images/service-water-line-services-800w.webp 800w, /images/service-water-line-services-1200w.webp 1200w, /images/service-water-line-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

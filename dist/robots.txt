@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-english-excavating-plumbing-co-inc.dream-surge.com/sitemap-index.xml
